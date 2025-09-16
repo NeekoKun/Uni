@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "ab3e2fda8c5187ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "81117986315caed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f772ef23441bdd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Campi"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f9fedd86311c13c",
+    "type": "split",
+    "children": [
+      {
+        "id": "18463921a0459255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d535fd6004ddc0c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a865f5400bbc4682",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d082307fdcf651c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43fd2e5c3394a1fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbc16d1ddc09f7c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "857ee1d39bdda25f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Campi"
+            }
+          },
+          {
+            "id": "34ebb755b04fec9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Campi"
+            }
+          },
+          {
+            "id": "5729182a5df98bed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "74a3983024f99a7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campi.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Campi"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4f772ef23441bdd2",
+  "lastOpenFiles": [
+    "Dimostrazione per Assurdo.md",
+    "Dimostrazione per Induzione.md",
+    "Insiemi Numerici.md",
+    "Logica.md",
+    "Metodo Deduttivo Diretto.md",
+    "Numeri Interi Relativi.md",
+    "Numeri Irrazionali.md",
+    "Numeri Naturali.md",
+    "Numeri Razionali.md",
+    "Numeri Reali.md",
+    "Numeri Complessi.md",
+    "Campi.md",
+    "Alternativa al Metodo Deduttivo.md",
+    "preambple.sty",
+    "Welcome.md"
+  ]
+}
