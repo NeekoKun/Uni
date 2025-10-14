@@ -1,3 +1,4 @@
+#analisi 
 > [!warning] Teorema
 > - Sia $y\in \mathbb{R}, y\geq 0, n\in \mathbb{N}, n\geq 1$
 > $\implies\exists! x\in \mathbb{R}\ |\ x\ge 0\ e\ x^n=y$

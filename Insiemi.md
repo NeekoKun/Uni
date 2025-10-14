@@ -1,3 +1,4 @@
+#analisi 
 Sia $X=\mathbb{R} \lor X=\mathbb{Q}$, consideriamo sempre E sottoinsieme X  (non vuoto)
 > [!warning] Definizione
 > - L'insieme si dice limitato superiormente o dall'alto se esiste $k \in X\ |\ x \leq k, \forall\ x \in E$

@@ -1,3 +1,4 @@
+#GAL
 ## Descrizione di Retta
 1) forma Parametrica in $\mathbb{R}^2$
 	- $r = \{ \underline{v} + t \underline{w} : t \in \mathbb{R} \}$

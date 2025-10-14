@@ -1,4 +1,5 @@
-po. x, y in R vale
-- |x + y| <= |x| + |y|
-- |a-b| <= |a-c| + |c-b|
+#analisi 
+$\forall\ x, y, z \in \mathbb{R}$:
+- $|x + y| \leq |x| + |y|$
+- $|x-y| \leq |x-z| + |z-y|$
 

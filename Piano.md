@@ -1,3 +1,4 @@
+#GAL 
 ## Descrizione di un Piano
 1) forma Parametrica
 	- $r = \{ \underline{v} + t \underline{w}_{1} + s \underline{w}_{2}: t,s \in \mathbb{R} \}$

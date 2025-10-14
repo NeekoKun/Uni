@@ -1,3 +1,4 @@
+#analisi 
 Dati $a,b \in \mathbb{R}, a<b:$
 - $(a,b) = \{ x\in \mathbb{R}, a<x<b \}$ -> Aperto
 	- non ha min ne max
