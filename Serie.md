@@ -37,3 +37,6 @@
 
 ## Teoremi
 - [[Condizione Necessaria affinchè una serie converga]]
+- [[Resto Ennesimo]]
+- Condizioni Sufficienti affinché una serie ammetta limite:
+	- [[Serie a Termini Positivi]]
