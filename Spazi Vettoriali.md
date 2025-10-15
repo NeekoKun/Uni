@@ -21,5 +21,5 @@
 
 ## Teoremi
 - [[Lemma di Scarto]]
-- [[Lemma di Giunta]]
+- [[Lemma di Aggiunta]]
 - [[Lemma di Steinitz]]

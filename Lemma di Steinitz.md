@@ -22,3 +22,25 @@
 > $$= \sum_{i=1}^{m} \sum_{j=1}^{n} c_{j}a_{ij}\underline{v_{i}}$$
 > $$= \sum_{i=1}^{m} \left( \sum_{j=1}^{n} c_{i}a_{ij} \right) \underline{v_{i}}$$
 > $$= \sum_{i=1}^{m} 0 \underline{v_{i}} = 0 $$
+
+## Corollari
+> [!info] Proprietà
+> Sia $\{ \underline{b}_{1}, \dots, \underline{b}_{p} \}$ una [[Base]] di $V$, $\underline{u}_{1},\dots,\underline{u}_{p} \in V$ vettori:
+> 1. Se $\underline{u}_{1},\dots,\underline{u}_{q}$ genera $V \implies q \geq p$
+> 2. Se $\underline{u}_{1},\dots,\underline{u}_{q}$ sono Linearmente Indipendenti $\implies q \leq p$
+> 3. Se $\{ \underline{u}_{1},\dots,\underline{u}_{q} \}$  è una base di $V \implies q = p$
+
+> [!error] Dimostrazione
+> 1. Per ipotesi $V = \mathrm{Span}(\underline{u}_{1},\dots,\underline{u}_{q})$, supponiamo per assurdo, $q < p$
+> Applichiamo il [[Lemma di Steinitz]] a $\underline{b}_{1},\dots,\underline{b}_{p} \in \mathrm{Span}(\underline{u}_{1}, \dots, \underline{u}_{q}) \implies \underline{b}_{1},\dots,\underline{b}_{p}$ sono L.D.
+> 2. Per ipotesi $\underline{u}_{1},\dots,\underline{u}_{q}$ sono L.I. **(Contraddizione all'Ipotesi)**
+> Supponiamo per assurdo $q > p$
+> Applichiamo il [[Lemma di Steinitz]] a $\underline{u}_{1},\dots,\underline{u}_{q} \in V = \mathrm{Span}(\underline{b}_{1}, \dots, \underline{b}_{p}) \implies \underline{u}_{1},\dots,\underline{u}_{q}$ sono Linearmente Dipendenti **(Contraddizione all'ipotesi)**
+> 3. Segue da 1. e 2.
+
+> [!info] Osservazione
+> Tutte le basi di $V$ hanno lo stesso numero di elementi
+
+> [!warning] Definizione
+> La **Dimensione** di uno spazio vettoriale $\mathrm{Dim}(V)$ è il numero di elementi in una base di $V$.
+> è anche definibile come il massimo numero di vettori linearmente indipendenti
