@@ -19,7 +19,24 @@
 > L'Algebra dei Vettori Colonna si basa esclusivamente su queste 8 proprietà
 > $\implies$ varrano in ogni spazio vettoriale
 
+## Sottospazi Vettoriali
+Ci sono due modi di rappresentare sottospazi vettoriali
+1. Forma Parametrica (Tramite Generatori/Parametri) $$H = \mathrm{Span}(\underline{v}_{1},\dots,\underline{v}_{p})$$
+2. Forma Cartesiana (tramite equazioni omogenee) $$H = \mathrm{Ker}(B) = \{ \underline{x} \in \mathbb{R}^n : B \underline{x} = \underline{0} \}$$
+
+> [!warning] Passaggio Cartesiana -> Parametrica
+> Risolvere $B \underline{x} = \underline{0}$
+
+> [!warning] Passaggio Parametrica -> Cartesiana
+> [[Lemma Qualcosa]]
+
+### Operazioni tra Sottospazi
+- [[Intersezione tra Sottospazi]]
+- [[Somma tra Sottospazi]]
+- [[Formula di Grassmann]]
+
 ## Teoremi
 - [[Lemma di Scarto]]
 - [[Lemma di Aggiunta]]
 - [[Lemma di Steinitz]]
+- [[Lemma Qualcosa]]

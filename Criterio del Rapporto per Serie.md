@@ -30,3 +30,4 @@
 > $$0 < a_{n} < \frac{a_{N}}{q^N} \cdot q^{n}$$
 > Poiché $q \in (0, 1)$ oer il [[Criterio del Confonto per Serie a Termini non-negativi]], essendo $\sum_{n=0}^{\infty} q^n = \frac{1}{1-q}$ convergente, deve essere convergente anche $\sum_{n=1}^{\infty}a_{n}$
 > Per [[Teorema dei due Carabinieri]], essendo $\lim_{ n \to \infty }q^n = 0$, deve essere anche $\lim_{ n \to \infty }a_{n} = 0$
+

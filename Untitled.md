@@ -1,4 +1,4 @@
-#GAL 
+#GAL #finire 
 ## Corollario
 > [!error] Teorema
 > Sia $A$ una matrice qualsiasi
