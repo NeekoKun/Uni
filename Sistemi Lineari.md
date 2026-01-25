@@ -53,7 +53,7 @@ a_{m1}x_{1}    & + & a_{m2}x_{2}  & + & \dots  & + & a_{mn}x_{n}    & = & b_{m}
 
 > [!info] Osservazione
 > $\mathrm{Ker}A\neq \varnothing$
-> - Teorema di Roché - Capelli
+> - [[Teorema di Roché - Capelli]]
 > 	- $\mathrm{rk}(A) = \mathrm{rk}(A, \underline{0})$
 > - $\underline{0} \in \mathrm{Ker}A$
 

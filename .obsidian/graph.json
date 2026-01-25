@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#gal ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 172,
-  "scale": 0.19292051120339945,
+  "scale": 0.43250339532163096,
   "close": false
 }

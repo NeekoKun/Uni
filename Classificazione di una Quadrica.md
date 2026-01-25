@@ -1,0 +1,47 @@
+#GAL 
+- $rk(A) = 4$
+	- $rk(A_{44}) = 3$
+		- $\det(A) < 0$
+			- Autovalori di $A_{44}$ concordi
+				- **Ellissoide Reale**
+			- Autovalori di $A_{44}$ discordi
+				- **Iperboloide Ellittico**
+		- $\det(A) > 0$
+			- Autovalori di $A_{44}$ concordi
+				- **Ellissoide Immaginario**
+			- Autovalori di $A_{44}$ discordi
+				- **Iperboloide Iperbolico**
+	- $rk(A_{44}) = 2$
+		- $\det(A) < 0$
+			- **Paraboloide Ellittico**
+		- $\det(A) > 0$
+			- **Paraboloide Iperbolico**
+- $rk(A) = 3$
+	- $rk(A_{44}) = 3$
+		- Autovalori di $A_{44}$ concordi
+			- **Cono Immaginario**
+		- Autovalori di $A_{44}$ discordi
+			- **Cono Reale**
+	- $rk(A_{44}) = 2$
+		- Autovalori di $A_{44}$ discordi
+			- **Cilindro Iperbolico**
+		- Autovalori di $A_{44}$ concordi1
+			- Autovalori di $A$ discordi
+				- **Cilindro Ellittico**
+			- Autovalori di $A$ concordi
+				- **Cilindro Immaginario**
+	- $rk(A_{44}) = 1$
+		- **Cilindro Iperbolico**
+- $rk(A) = 2$
+	- $rk(A_{44}) = 2$
+		- Autovalori di $A_{44}$ concordi
+			- **Piani Complessi Incidenti**
+		- Autovalori di $A_{44}$ discordi
+			- **Piani Reali Incidenti**
+	- $rk(A) = 1$
+		- Autovalori di $A_{44}$ concordi
+			- **Piani Complessi e Paralleli Distinti**
+		- Autovalori di $A_{44}$ discordi
+			- **Piani Reali e Paralleli Distinti**
+- $rk(A) = 1$
+	- **Piano Doppio**

@@ -10,7 +10,7 @@
 > $$= \sum_{i=1}^{n} a_{ij}\underline{v_{i}}$$
 > Consideriamo $A = (a_{ij})\in \mathrm{Mat}(m,n)$
 > Per ipotesi, $n > m \implies \mathrm{rK}(A) \leq m < n$
-> Il sistema $A \underline{x} = \underline{0}$ ho infinite soluzioni (Rochè-Capelli)
+> Il sistema $A \underline{x} = \underline{0}$ ho infinite soluzioni [[Rochè-Capelli]]
 > $\implies$ esistono soluzioni non nulle:
 > $$\exists\ \underline{c} = \begin{pmatrix} c_{1} \\ c_{2} \\ \vdots \\ c_{n} \end{pmatrix} \neq \underline{0}: A \underline{c} = \underline{0}$$
 > Cioè $\forall\ i\in[i,m]$
@@ -26,8 +26,8 @@
 ## Corollari
 > [!info] Proprietà
 > Sia $\{ \underline{b}_{1}, \dots, \underline{b}_{p} \}$ una [[Base]] di $V$, $\underline{u}_{1},\dots,\underline{u}_{p} \in V$ vettori:
-> 1. Se $\underline{u}_{1},\dots,\underline{u}_{q}$ genera $V \implies q \geq p$
-> 2. Se $\underline{u}_{1},\dots,\underline{u}_{q}$ sono Linearmente Indipendenti $\implies q \leq p$
+> 1. Se $\{ \underline{u}_{1},\dots,\underline{u}_{q} \}$ genera $V \implies q \geq p$
+> 2. Se $\{ \underline{u}_{1},\dots,\underline{u}_{q} \}$ sono Linearmente Indipendenti $\implies q \leq p$
 > 3. Se $\{ \underline{u}_{1},\dots,\underline{u}_{q} \}$  è una base di $V \implies q = p$
 
 > [!error] Dimostrazione

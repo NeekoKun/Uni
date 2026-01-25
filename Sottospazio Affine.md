@@ -24,3 +24,23 @@
 
 > [!info] Osservazione
 > $\mathrm{dim}(S) = \mathrm{dim}(H)$
+
+## Operazioni nei Sottospazi Affini [...]
+
+> [!info] Osservazione
+> $S_{1}, S_{2} \in \mathbb{R}^n$, allora $S_{1} \cap S_{2}$
+> è un [[Sottospazio Affine]]:
+> $$S_{1} = \{ \underline{x} : A_{1} \underline{x} = \underline{b}_{2} \}$$
+> $$S_{2} = \{ \underline{x} : A_{2} \underline{x} = \underline{b}_{2} \}$$
+> $$S_{1} \cap S_{2} = \left\{ \underline{x} : \begin{pmatrix} A_{1} \\ A_{2} \end{pmatrix} \underline{x}= \begin{pmatrix} \underline{b}_{1} \\ \underline{b}_{2} \end{pmatrix} \right\}$$
+
+> [!warning] Definizione
+> 
+> | Posizione   | $S_{1} \cap S_{2}$ | $H_{1}, H_{2}$                                             |
+> | ----------- | ------------------ | ---------------------------------------------------------- |
+> | Coincidenti | $\neq \emptyset$   | $H_{1} = H_{2}$                                            |
+> | Inclusione  | $\neq \emptyset$   | $H_{1} \subseteq H_{2} \lor H_{2} \subseteq H_{1}$         |
+> | Incidenti   | $\neq \emptyset$   | $H_{1} \not\subseteq H_{2} \lor H_{2} \not\subseteq H_{1}$ |
+> | Parallele   | $=\emptyset$       | $H_{1} \subseteq H_{2} \lor H_{2} \subseteq H_{1}$         |
+> | Sghembi     | $= \emptyset$      | $H_{1} \not\subseteq H_{2} \lor H_{2} \not\subseteq H_{1}$ |
+>

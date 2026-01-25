@@ -1,6 +1,6 @@
 #analisi 
 > [!error] Definizione
-> Date tre successioni $a_{n}, b_{n}, c_{n}$ tali che $$a_{n} \leq b_{n} \geq c_{n}$$ definitivamente in $n \in \mathbb{N}$ e tali che $$\exists\ \lim_{ n \to \infty }a_{n}=\lim_{ n \to \infty }c_{n}=l \in \mathbb{R}$$
+> Date tre successioni $a_{n}, b_{n}, c_{n}$ tali che $$a_{n} \leq b_{n} \leq c_{n}$$ definitivamente in $n \in \mathbb{N}$ e tali che $$\exists\ \lim_{ n \to \infty }a_{n}=\lim_{ n \to \infty }c_{n}=l \in \mathbb{R}$$
 > Allora $\exists\ \lim_{ n \to \infty }b_{n} = l \in \mathbb{R}$
 
 > [!warning] Dimostrazione

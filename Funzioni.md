@@ -1,4 +1,12 @@
+---
+aliases:
+  - Funzione
+---
+
 #analisi 
+> [!warning] Definizione
+> L'**Immagine** di una della funzione $f(A) = \{ f(a)\ \forall\ a \in A\} \subseteq \mathbb{R}$
+
 > [!warning] Definizione
 > Data una $f: A \subseteq \mathbb{R} \to \mathbb{R}$ diremo che essa è limitata superiormente (o dall'alto) se $\mathrm{Im}f \subseteq \mathbb{R}$ è limitata superiormente cioè se $\exists\ M\in \mathbb{R}:f(x)\leq M\ \forall\ x \in A$
 

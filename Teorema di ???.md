@@ -4,7 +4,7 @@
 > dove:
 > $$a^{+\infty}=+\infty\ \forall\ a>1$$
 > $$a^{-\infty}=0      \ \forall\ a>1$$
-> $$a^{+\infty}=0      \ \forall\ a>1$$
+> $$a^{+\infty}=0      \ \forall\ a \in [0, 1)$$
 > $$a^{-\infty}=+\infty\ \forall\ a\in[0,1)$$
 > $$+\infty^b = +\infty\ \forall\ b>0$$
 > $$+\infty^b = 0      \ \forall\ b<0$$
