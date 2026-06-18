@@ -1,0 +1,34 @@
+#notes 
+## Hardware
+- Cables: [[Cat6a]] [[Ethernet]] cables for most of everything
+- Cost: €125 (+ €25) + €353 (+ €28) + €414 + = €950
+### Router
+1. [MikroTik RB4011IGS+RM](https://www.ebay.it/itm/226989361634?_skw=RB4011&itmmeta=01KS7C1DC92TAZX61816G1HC0J&hash=item34d99ec9e2:g:Ki4AAOSwJExnZKFP&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAUD1sz6VQZi9KJLJYICi1eCsReCwqvzO%2B4ShlLpq2OjUN%2F8ZDuebeKhO3gDnvrkjov2T2VGBrx4iwj8q5%2BqjsrgBgTNvCi11F0gJSvJA4kPvNyt5nCXpvq3Y1eDmcaKpeo15AgjbpkIdEfD9pOCuRt4qOrdqY%2Fmx63JboHHspMITOu%2BNWm9j8%2FViCcYOo%2BPbv4%2FWOICnolL1diPf%2BFnknnM%2Bch1XmnrwuRaT6CPRQCmszW2Z%2BfDrS5I8KTWgYSBkU%2FupnvInUabsw5w148EFN6qauQdBHmDpWsAXuN2P3fXg%3D%3D%7Ctkp%3ABk9SR7rWhezJZw)
+	- €125 (+ €25)
+### Switch
+- Fabric > 55.5 GbE
+	- 3 x 1 GbE AP meshgrid
+	- 1 x 10 GbE SPF28 Server
+	- 1 x 10 GbE SPF28 NAS
+	- 1 x 1 GbE Router
+1. [MikroTik CRS328-24P-4S+RM](https://www.ebay.it/itm/176499725657?_trksid=p2332490.c101196.m2219&itmprp=cksum%3A17649972565748ca66ee2d4e4a6ca287b3e7e9cea0ee%7Cenc%3AAQALAAABUMJqCZOVY9EoLokt2QswX93oJfuGbORZEZhlCAjlXRRCUbpM9OMIdCmRfkOVQ1PhspDZGTlVp%252BsQFBtO93nb2QX5mVs4lL83nkIbUjqkMa8029EY4XfdhoaLjzTWK5DJUavttt5PoiOIedyWzJY%252FVumbaayF8VkwZ%252FuUBRxTUEZm6nGvQkDmaz%252BcKY7RVNB4HjFwUPaGTD2XFN5hjg0Al0Et73DRy%252BxUJz8a7CU3FAgoW6VSRkXFlgXdWhyXGAzBMexLoQKnwbj4wYtZQSy%252B7yS32Yf88xIELM0iE2u%252F4Yq0X%252FYs7urRZ%252Fs2WiYP1pBvNHutZZHhywVW6IyQLXR8HWl16QiEsiRXYUsiYGo18uFKG%252F9kOzKiiBclFKBkGZyW4OQtTuVM59EAnqn0m6ww020a2YignRJ5l2q1kERyFHyG5gXYIbb3WjcWmxF4UCh9Hg%253D%253D%7Campid%3APL_CLK%7Cclp%3A2332490&itmmeta=01KS4XF3BEB96C7QXN1XT5YW1N)
+	- €353
+2. [Mikrotik CRS312-4C+8XG](https://www.ebay.it/itm/175785416874?_skw=Mikrotik+CRS312-4C%2B8XG&itmmeta=01KS4XDYVQ2NVV5E9CVSWB6V16&hash=item28eda098aa:g:1d0AAOSw1gNklUfg&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCVI01%2BcnFqoYRcPtljjnlJxmrJZvScOmwku7OItZ0SPGXnw9BDpoPDWG1VyK9PYquTCT1PEx6kyIqqesxAlec%2FKHAjnhSE2lubFefud9b%2BVG0tgRvqwcSpmS2aFRi9wPMRHqhFoIBQRaAWaepwo4N3c4CpEuiUrqzdp9uvl0yg%2F9J2vG2zIFlMd6o0NccCGZBPySsMTkvxKWQDqzqaNF87WplOwHynoUsNrwb7acy0m9Pj9m33vz0WXdY6bctEOki0XiIls5scYgCUmRr3eccoj7WU9fKFB%2FU9YwSBrNQpTg%3D%3D%7Ctkp%3ABFBMiO63ncln)
+
+### Main Server
+
+1. [Dell PowerEdge R730-XD](https://www.ebay.it/itm/405396074689?_skw=Dell+PowerEdge+R730xd&itmmeta=01KS50XVFCSTHEMKP71ZV8QW7D&hash=item5e637d30c1:g:P7sAAeSw6YZqBZPq&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2BXQVrH%2FnbKFMqvtyhYX%2BvUl6suVU7tP0lRRjG8iZ8KRt8sAPufFuA1mRGLo7By4--BbyK%2BBJwXoz9z739XfY%2FdEn2YOmc0QwS4PDP6ercOuix2EGMn%2F11COMH1t1se6gd6781w%2FIwHbF043uB3X94EJ2eX8Z3AlsSslrwjtw%2B%2FZJHNJpHRaLuncg9btUTUzDL3bUxRrehai6hFBL%2FQ2co%2BtPnbv62BSwRbhGHpsKTgO1ri5r13AnDHuk2c9GHWAyxAQutGSS8AUIhf7BW852RQk12wM%2Bn1Dd0UcaedUrOdg%3D%3D%7Ctkp%3ABk9SR_K396DJZw)
+	- €414
+	- 26x2.5'' SFF
+		- 22x2.5'' -> H330P controller
+		- 4x2.5'' U.2 -> PCIe lanes
+	- 64GB / 3TB RAM
+2. [Dell PowerEdge R730xd](https://www.ebay.it/itm/800014529214?_skw=Dell+R730xd&itmmeta=01KS5FZTMNWJ7RVB1ER1J3A49T&hash=itemba4494f2be:g:JiQAAeSwhPFqCyb9&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCvOWmEaO%2FDYPzf7fB6tLSy25YGOWxKijp2Ys%2FgNU19xToIJLjC1BM1Okoi8SKH6srccM9C0KkkePR52yNatDTvSAmTl7j4FhLvQeFKIpk5zjQZ9iiQnnj3qR5K6bkawZyDnsKZX6XtbXh6a1gVSy2UF6099ifyvMW5sEsZlXgAyORQUqzsVvQ%2BJim41dSVKFgmVrySrCsnHU9GmLT5PDhYFxIK7ncrU7uV7o18m9a6nm1ONPGMOcZUBpnFhYpH66aMT2AKOh9eHJwWUhNIZwKpJnJTIqT2UQxPZ%2FyxBe1tow%3D%3D%7Ctkp%3ABk9SR9aq_6_JZw)
+	- € 200
+	- 12x3.5''
+	- 2x2.5''
+	- ==0 RAM==
+
+### Rack
+#### Guides:
+- https://www.amazon.it/dp/B00LFSBVEU?ref=cm_sw_r_cso_wa_apan_dp_5KTBNXJKKNWCSV1GWZGX&social_share=cm_sw_r_cso_wa_apan_dp_5KTBNXJKKNWCSV1GWZGX&th=1

@@ -14,7 +14,7 @@
 > e la serie converge (se $S \in \mathbb{R}$) o diverge a $+\infty$ (se $S = +\infty$)
 
 ## Criteri
-- [[Criterio del Confonto per Serie a Termini non-negativi]]
+- [[Criterio del Confronto per Serie a Termini non-negativi]]
 - [[Criterio del Confronto Asintotico]]
 - [[Criterio del Rapporto per Serie]]
 - [[Criterio della Radice]]

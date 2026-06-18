@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
-  "search": "tag:#gal ",
+  "collapse-filter": true,
+  "search": "tag:#analisi",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#analisi  ",
@@ -29,16 +29,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 2.26927083333333,
   "lineSizeMultiplier": 3.34114583333333,
   "collapse-forces": false,
-  "centerStrength": 0.546875,
+  "centerStrength": 0.329496788008565,
   "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 172,
-  "scale": 0.43250339532163096,
-  "close": false
+  "linkStrength": 0.871341898643826,
+  "linkDistance": 500,
+  "scale": 0.1162201715756334,
+  "close": true
 }

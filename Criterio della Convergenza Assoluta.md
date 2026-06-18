@@ -4,7 +4,7 @@
 
 > [!error] Dimostrazione
 > $\forall\ n \in \mathbb{N}:$ $$0 \leq a_{n} + |a_{n}| \leq 2|a_{n}|$$
-> Poichè $\sum_{n=1}^{\infty} |a_{n}|$ converge per ipotesi, per [[Criterio del Confonto per Serie a Termini non-negativi]], converge anche $$\sum_{n=1}^{\infty} a_{n} + |a_{n}|$$ inoltre $$\sum_{n=1}^{\infty} a_{n} = \sum_{n=1}^{\infty} (a_{n} + |a_{n}| - |a_{n}|)$$ $$=\sum_{n=1}^{\infty} (a_{n} + |a_{n}|) - \sum_{n=1}^{\infty} |a_{n}|$$
+> Poichè $\sum_{n=1}^{\infty} |a_{n}|$ converge per ipotesi, per [[Criterio del Confronto per Serie a Termini non-negativi]], converge anche $$\sum_{n=1}^{\infty} a_{n} + |a_{n}|$$ inoltre $$\sum_{n=1}^{\infty} a_{n} = \sum_{n=1}^{\infty} (a_{n} + |a_{n}| - |a_{n}|)$$ $$=\sum_{n=1}^{\infty} (a_{n} + |a_{n}|) - \sum_{n=1}^{\infty} |a_{n}|$$
 > Entrambe le serie all'ultimo membro convergono $$\implies \sum_{n=1}^{\infty} a_{n} \text{ converge}$$ 
 
 > [!info] Osservazione

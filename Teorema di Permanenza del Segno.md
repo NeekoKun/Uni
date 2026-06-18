@@ -1,6 +1,6 @@
 #analisi 
 > [!error] Teroema di Permanenza del Segno
-> 1) Data $a_{n}$ successione, $\exists\ \lim_{ n \to \infty }a_{n}=l\in \mathbb{\overline{R}},\ l > 0\implies \exists\ n_{0}:a_{n>n_{0}}>0$
+> 1) Data $a_{n}$ successione, $\exists\ \lim_{ n \to \infty }a_{n}=l\in \mathbb{\overline{R}},\ l > 0\implies \exists\ n_{0}:a_{n}>0\ \forall\ n > n_{0}$
 > 2) $\exists \lim_{ n \to \infty }a_{n}\in \overline{\mathbb{R}},\exists\ n_{0} : a_{n>n_{0}}\geq 0\implies l \geq 0$
 
 > [!info] Osservazione

@@ -4,80 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "a25b53931d09431d",
+        "id": "ed92eebd35672db7",
         "type": "tabs",
         "children": [
           {
-            "id": "df2f3da02826e7c6",
+            "id": "c5adbd6b43ce918e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GAL - Teoremi.md",
-                "mode": "source",
+                "file": "Informazione e Stima.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GAL - Teoremi"
+              "title": "Informazione e Stima"
             }
           },
           {
-            "id": "1de06a360081e2ea",
+            "id": "2051489064beac4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teorema Spettrale.md",
+                "file": "Distribuzioni di Probabilità.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorema Spettrale"
+              "title": "Distribuzioni di Probabilità"
             }
           },
           {
-            "id": "5da341c27e96a81c",
+            "id": "3ef2907f373f4fd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Endomorfismi.md",
+                "file": "Autoinformazione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Endomorfismi"
-            }
-          },
-          {
-            "id": "5fe624db47730aad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Criterio di Diagonalizzabilità.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Primo Criterio di Diagonalizzabilità"
-            }
-          },
-          {
-            "id": "a5578456e08c6bd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teorema di Sylvester.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teorema di Sylvester"
+              "title": "Autoinformazione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#GAL Teorema ",
+                "query": "tag:#IeS informa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GAL - Teoremi.md",
+                "file": "Distribuzioni di Probabilità.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GAL - Teoremi"
+              "title": "Backlinks for Distribuzioni di Probabilità"
             }
           },
           {
@@ -170,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campi.md",
+                "file": "Congestion avoidance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Campi"
+              "title": "Outgoing links from Congestion avoidance"
             }
           },
           {
@@ -219,12 +192,32 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "ffcd6705912813d1",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "github-copilot-chat-view"
+            }
+          },
+          {
+            "id": "39a668a049e50d7c",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 418.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,36 +230,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "df2f3da02826e7c6",
+  "active": "2051489064beac4a",
   "lastOpenFiles": [
-    "Teorema Spettrale.md",
-    "Endomorfismi.md",
-    "Primo Criterio di Diagonalizzabilità.md",
-    "GAL - Teoremi.md",
-    "Teorema di Sylvester.md",
-    "Teorema di Roché - Capelli.md",
-    "Teorema di Nullità + Rango.md",
-    "Formula di Grassmann.md",
-    "Teorema di Carnot.md",
-    "Disuguaglianza di Cauchy-Schwartz.md",
-    "Disuguaglianza Triangolare.md",
-    "Teorema di Interpolazione.md",
-    "Teorema di Rappresentazione.md",
-    "Teorema del Coseno.md",
-    "Teorema della Riduzione di Vettori Linearmente Dipendenti.md",
-    "Teorema di Esistenza di una Base.md",
-    "Lemma di Scarto.md",
-    "Base.md",
-    "Untitled.md",
-    "Criterio del Confronto Asintotico.md",
-    "Criterio del Rapporto per Serie.md",
-    "Criterio della Radice.md",
-    "Criterio di Leibniz.md",
-    "Lemma Qualcosa.md",
-    "Lemma di Steinitz.md",
-    "Lemma di Aggiunta.md",
-    "Pasted image 20251126162357.png",
+    "Informazione e Stima.md",
+    "Distribuzioni di Probabilità.md",
+    "Autoinformazione.md",
+    "Covarianza.md",
+    "Stima.md",
+    "Densità di Probabilità.md",
+    "Homelab.md",
+    "Artix setup.md",
+    "Varianza.md",
+    "Disuguaglianza di Chebyshev.md",
+    "Stimatore Lineare a Minimo Errore Quadratico Medio.md",
+    "Stimatori Lineari.md",
+    "Ciclo Otto.md",
+    "Trasformazioni Termodinamiche.md",
+    "Cicli Termodinamici.md",
+    "Entropia.md",
+    "Fontconfig.md",
+    "Ciclo Stirling.md",
+    "Ciclo Diesel.md",
+    "Ciclo di Brayton.md",
+    "Ciclo di Carnot.md",
+    "Monte Carlo.md",
+    "CSMA.md",
+    "NTP.md",
+    "System Clock.md",
+    "RTC.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "AN1/AM1 L15 25-26.pdf",
+    "Pasted image 20251126162357.png",
     "AN1",
     "Pasted image 20250926143337.png",
     "FdI/02-informazione-1.pdf",
@@ -274,7 +269,6 @@
     "FdI/03-informazione-2.pdf",
     "FdI/01-algoritmi.pdf",
     "FdI/13-argomenti_avanzati.pdf",
-    "FdI",
-    "preambple.sty"
+    "FdI"
   ]
 }
