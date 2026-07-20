@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribuzioni di Probabilità.md",
+                "file": "Potenza.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distribuzioni di Probabilità"
+              "title": "Potenza"
+            }
+          },
+          {
+            "id": "6c49d25c6190445b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binodali.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binodali"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#IeS informa",
+                "query": "tag:#ELT circuiti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribuzioni di Probabilità.md",
+                "file": "Binodali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Distribuzioni di Probabilità"
+              "title": "Backlinks for Binodali"
             }
           },
           {
@@ -230,10 +244,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "2051489064beac4a",
+  "active": "6c49d25c6190445b",
   "lastOpenFiles": [
-    "Informazione e Stima.md",
+    "Elettrostatica.md",
+    "Potenza.md",
+    "Teorema di Tellegen.md",
+    "Go-Back-N.md",
+    "Algoritmi di Karn e Jacobson.md",
     "Distribuzioni di Probabilità.md",
+    "Informazione e Stima.md",
     "Autoinformazione.md",
     "Covarianza.md",
     "Stima.md",
@@ -253,11 +272,6 @@
     "Ciclo Diesel.md",
     "Ciclo di Brayton.md",
     "Ciclo di Carnot.md",
-    "Monte Carlo.md",
-    "CSMA.md",
-    "NTP.md",
-    "System Clock.md",
-    "RTC.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "AN1/AM1 L15 25-26.pdf",

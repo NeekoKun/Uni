@@ -1,4 +1,8 @@
 #ELT
+## Variabili di Stato
+- [[Potenza]]
+- [[Corrente]]
+- [[Tensione]]
 ## Circuiti Noti
 - [[Binodali]]
 - 
