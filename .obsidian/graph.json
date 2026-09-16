@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "tag:#analisi",
+  "collapse-filter": false,
+  "search": "tag:#ELT",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 0.871341898643826,
   "linkDistance": 500,
-  "scale": 0.1162201715756334,
+  "scale": 0.20473410961981123,
   "close": true
 }

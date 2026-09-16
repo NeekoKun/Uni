@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ed92eebd35672db7",
+        "id": "b35ae46913cac352",
         "type": "tabs",
         "children": [
           {
-            "id": "c5adbd6b43ce918e",
+            "id": "d9e0668dce1b0cf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informazione e Stima.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Informazione e Stima"
-            }
-          },
-          {
-            "id": "2051489064beac4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Potenza.md",
+                "file": "Analisi Matematica 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Potenza"
-            }
-          },
-          {
-            "id": "6c49d25c6190445b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binodali.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Binodali"
-            }
-          },
-          {
-            "id": "3ef2907f373f4fd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autoinformazione.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Autoinformazione"
+              "title": "Analisi Matematica 2"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -96,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ELT circuiti",
+                "query": "tag:#ELT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binodali.md",
+                "file": "Riassuntone Elettrotecnica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Binodali"
+              "title": "Backlinks"
             }
           },
           {
@@ -186,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campi.md",
+                "file": "Analisi Matematica 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Campi"
+              "title": "Outline"
             }
           },
           {
@@ -201,7 +159,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Matrice.md"
+                "file": "Riassuntone Elettrotecnica.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -213,8 +171,8 @@
             "state": {
               "type": "github-copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "github-copilot-chat-view"
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
             }
           },
           {
@@ -226,12 +184,23 @@
               "icon": "bot-message-square",
               "title": "Copilot Chat"
             }
+          },
+          {
+            "id": "548610c81b2a4c25",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 280.34765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,34 +213,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "6c49d25c6190445b",
+  "active": "d535fd6004ddc0c2",
   "lastOpenFiles": [
-    "Elettrostatica.md",
+    "Calcolo Integrale per Funzioni in più Variabili.md",
+    "Analisi Matematica 2.md",
+    "Equazioni Differenziali Ordinarie - Analisi Qualitativa.md",
+    "Massimi e Minimi per Funzioni in più Variabili.md",
+    "Teorema di Fermat.md",
+    "Massimi, Minimi ed Estremanti.md",
+    "Topologia e Curve.md",
+    "Equazioni Differenziali Ordinarie - Generalità e Risoluzione Esplicita.md",
+    "Calcolo Differenziale per Funzioni in più Variabili.md",
+    "Serie di Funzioni.md",
+    "Teorema di Thevenin.md",
     "Potenza.md",
-    "Teorema di Tellegen.md",
-    "Go-Back-N.md",
-    "Algoritmi di Karn e Jacobson.md",
-    "Distribuzioni di Probabilità.md",
-    "Informazione e Stima.md",
+    "Binodali.md",
     "Autoinformazione.md",
-    "Covarianza.md",
-    "Stima.md",
-    "Densità di Probabilità.md",
-    "Homelab.md",
-    "Artix setup.md",
-    "Varianza.md",
-    "Disuguaglianza di Chebyshev.md",
-    "Stimatore Lineare a Minimo Errore Quadratico Medio.md",
-    "Stimatori Lineari.md",
-    "Ciclo Otto.md",
-    "Trasformazioni Termodinamiche.md",
-    "Cicli Termodinamici.md",
-    "Entropia.md",
-    "Fontconfig.md",
-    "Ciclo Stirling.md",
-    "Ciclo Diesel.md",
-    "Ciclo di Brayton.md",
-    "Ciclo di Carnot.md",
+    "Legge di Hopkinson.md",
+    "Riassuntone Elettrotecnica.md",
+    "Teorema di Tellegen.md",
+    "Teorema di Sovrapposizione degli Effetti.md",
+    "Teorema di Millman.md",
+    "Teorema.md",
+    "Sommatore.md",
+    "Soluzione Generale per Variabile Qualunque.md",
+    "Resistore.md",
+    "Punto di Lavoro con Carico Resistivo.md",
+    "Partitore di Corrente.md",
+    "KCL e KVL Linearmente Indipendenti.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "AN1/AM1 L15 25-26.pdf",
