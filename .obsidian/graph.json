@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#ELT",
+  "search": "tag:#AM2",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 0.871341898643826,
   "linkDistance": 500,
-  "scale": 0.20473410961981123,
+  "scale": 0.12415526107542513,
   "close": true
 }

@@ -1,9 +1,10 @@
 #AM2 
 ## Sintesi
 > [!abstract] EDO del primo ordine
-> - EDO del primo ordine lineari
+> - [[Equazioni Differenziali Ordinarie]]
+> - [[EDO del Primo Ordine Lineari]]
 > 	- Formula Risolutiva
-> - EDO a variabili separabili
+> - [[EDO a variabili separabili]]
 > - [[Equazione di Bernoulli]]
 > - [[Problema di Cauchy]]
 > - Modelli di Dinamica delle Popolazioni
@@ -11,10 +12,10 @@
 > 	- [[Equazione Logistica]]
 
 > [!abstract] EDO del secondo ordine
-> - EDO del secondo ordine lineari
+> - [[EDO del Secondo Ordine Lineari]]
 > 	- Principio di Sovrapposizione
 > - [[Problema di Cauchy]]
-> 	- Esistenza ed Unicità della Soluzione
+> 	- [[Problema di Cauchy#Teorema dell'Esistenza Unica della Soluzione del Problema di Cauchy|Esisteza Unica della Soluzione]]
 > - [[Teorema di struttura dell’integrale generale di EDO del secondo ordine lineari omogenee]]
 > 	- e [[non omogenee]]
 > - EDO del secondo ordine lineari a coefficienti costanti
